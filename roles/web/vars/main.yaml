@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.devopsproject.cloud
+USER_HOST: user.devopsproject.cloud
+SHIPPING_HOST: shipping.devopsproject.cloud
+CART_HOST: cart.devopsproject.cloud
+PAYMENT_HOST: payment.devopsproject.cloud
