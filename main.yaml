@@ -1,5 +1,5 @@
-  - name: Installing Roboshop project
-    hosts: "{{component}}" 
-    become: yes
-    roles:
-    - "{{component}}" 
+- name: Installing Roboshop project
+  hosts: localhost
+  become: yes
+  roles:
+  - "{{component}}"
