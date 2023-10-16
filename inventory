@@ -5,7 +5,7 @@ mongodb.devopsproject.cloud
 web.devopsproject.cloud
 
 [catalogue]
-catalogue.devopsproject.cloud
+catalogue-dev.devopsproject.cloud
 
 [redis]
 redis.devopsproject.cloud
